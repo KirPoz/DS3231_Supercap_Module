@@ -48,7 +48,9 @@ The module includes:
 
 ## 📷 PCB Preview
 
-![PCB Preview](hardware/preview/pcb_top.png)
+![PCB Preview](hardware/preview/schematic_diagram.png)
+![PCB Preview](hardware/preview/pcb.png)
+![PCB Preview](hardware/preview/3d.png)
 
 ---
 
