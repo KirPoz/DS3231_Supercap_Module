@@ -109,6 +109,6 @@ The module includes:
 | 1   | R1        | 15Ω         | CR0805J80150G      | 0805    |
 | 2   | R2, R3    | 4.7kΩ       | RT0805BRD074K7L    | 0805    |
 | 1   | D3        | Schottky    | 1N5819W            | SOD-123 |
-| 1   | P1        | 4-pin header| -                  | 2.54mm  |
+| 1   | U1        | 4-pin header| MTP125-1104S1      | 2.54mm  |
 
 ---
